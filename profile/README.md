@@ -2,20 +2,29 @@
 
 The Unified Monitoring Platform for Websites, APIs, Servers, and Infrastructure Monitoring.
 
-## Monitor Everything From One Place
+Monitor Hub helps developers, DevOps engineers, startups, and businesses monitor their entire infrastructure from a single dashboard.
 
-- 🌍 Website Monitoring
-- 🔌 API Monitoring
-- 🖥️ Server Monitoring
-- 🚨 Instant Alerts
+## 🚀 Features
+
+- 🌍 Website Uptime Monitoring
+- 🔌 API Monitoring & Response Tracking
+- 🖥️ Server Monitoring (Windows & Linux)
 - 📊 Public Status Pages
+- 🚨 Instant Alerts & Notifications
 - ⚡ One-Click Agent Deployment
+- 🔒 SSL Certificate Monitoring
+- 📈 Real-Time Telemetry & Infrastructure Metrics
+- 📑 Incident History & Reporting
+- 🏢 Centralized Infrastructure Visibility
 
-🌐 Website: https://monitorhubs.com
+## 🔔 Alert Integrations
 
-🚀 Get Started: https://monitorhubs.com/signup
+- Email
+- Telegram
+- Slack
+- Discord
 
-## Technologies
+## 🛠️ Built With
 
 - Next.js
 - Fastify
@@ -24,4 +33,14 @@ The Unified Monitoring Platform for Websites, APIs, Servers, and Infrastructure 
 - Cloudflare
 - Supabase
 
-Built for developers, DevOps engineers, startups, businesses and modern infrastructure teams.
+## 🌐 Links
+
+Website: https://monitorhubs.com
+
+Get Started: https://monitorhubs.com/signup
+
+LinkedIn: https://www.linkedin.com/company/monitor-hub
+
+---
+
+Built for developers, DevOps teams, startups, businesses, and modern infrastructure teams.
